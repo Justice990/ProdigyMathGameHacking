@@ -10,4 +10,5 @@ assignees: ''
 **Describe the hack in 5 words or less:**
 <!-- Example: Membership Hack-->
 
-**Have you made sure this hack isn't available yet?* (Yes/No)**
+**Have you made sure this hack isn't available yet?* (Yes
+
